@@ -1,11 +1,11 @@
 //Programming Exercise #17 - Ch. 17 (p. 1278) - Write the definition of the class linkedQueueType,
-// which is derived from the class unorderedLinkedList, as explained in this chapter.  
-// Also, write a program to test various operations of this class
+//which is derived from the class unorderedLinkedList, as explained in this chapter.  
+//Also, write a program to test various operations of this class
 
 //Definition: A linkedQueueType is a type of queue that makes use of a linked list. Data is stored in "nodes"
-// which also contain an address of the next node in line. The linked list is a queue so the functionaility includes
-// adding items to the end of the list, and removing items from the front. It also contains operations such as output
-// for how many items are in the list, and what the front value is.
+//which also contain an address of the next node in line. The linked list is a queue so the functionaility includes
+//adding items to the end of the list, and removing items from the front. It also contains operations such as output
+//for how many items are in the list, and what the front value is.
 
 
 //Program testing operations
