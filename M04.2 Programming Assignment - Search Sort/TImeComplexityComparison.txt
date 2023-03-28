@@ -1,0 +1,3 @@
+Time complexity of selection sort is O(N^2)
+Time complexity of merge sort is O(N Log(N))
+Because of this merge sort is more efficient than selection sort.
